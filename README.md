@@ -1,4 +1,5 @@
-Hi I am Nacira Ramdani
+Hi
+I am Nacira Ramdani
 After completing my PhD in veterinary epidemiology, I decided to pursue a career in data analysis. My experience 
 with diverse datasets related to animal diseases ignited  my passion for transforming complex data into compelling narratives.
 Proficient in Excel, SPSS, R, Python, and SQL server. I have honed my skills in statistical analysis, data manipulation, visualization, 
